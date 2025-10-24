@@ -1,9 +1,8 @@
 <!-- .github/profile/README.md -->
 
-<p align="center">
-  <img src="assets/banner.svg" alt="Clever Tech Labs — Smart Tools, Sharp Code" width="100%">
-  ![logo](/assets/logo.jpeg)
-</p>
+[logo](..
+/assets/logo.jpeg)
+
 
 # 🧠 Clever Tech Labs  
 ### Smart Tools • Sharp Code • Real Impact
