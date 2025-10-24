@@ -13,7 +13,7 @@
 ---
 
 ## 🚀 Featured Project
-### 🎯 [RoleSniper](https://github.com/CleverTech-Labs/RoleSniper)  
+### 🎯 [RoleSniper](https://github.com/CleverTech-AI/RoleSniper)  
 Smart job crawler that targets roles from any careers page and downloads descriptions that match your wishlist.  
 `bash install.sh && rolesniper <careers_url>`
 
@@ -22,9 +22,9 @@ Smart job crawler that targets roles from any careers page and downloads descrip
 ## 📊 Quick Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleverTech-Labs&layout=compact&hide=html,css" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleverTech-AI&layout=compact&hide=html,css" alt="Top Languages" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=CleverTech-Labs&show_icons=true&count_private=true&theme=dark" alt="Clever Tech Labs GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CleverTech-AI&show_icons=true&count_private=true&theme=dark" alt="Clever Tech Labs GitHub Stats" />
 </p>
 
 ---
@@ -41,7 +41,7 @@ Smart job crawler that targets roles from any careers page and downloads descrip
 ---
 
 ## 🌍 Connect
-🐙 GitHub — [@CleverTech-Labs](https://github.com/CleverTech-Labs)  
+🐙 GitHub — [@CleverTech-AI](https://github.com/CleverTech-AI)  
 📬 Contact — team@clevertechlabs.ai
 
 **Clever Tech Labs © 2025**  
